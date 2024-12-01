@@ -1,4 +1,4 @@
-React.js is a popular JavaScript library for building user interfaces, particularly for single-page applications. Here’s a concise guide to help you kick-start your journey with React.
+React.js is a popular JavaScript library for building user interfaces, particularly for single-page applications. Hereâ€™s a concise guide to help you kick-start your journey with React.
 
 ## Core Concepts
 
